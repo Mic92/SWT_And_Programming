@@ -7,9 +7,7 @@ bisherigen Übungen und den 1. Teil des Praktomaten.
 Die Praktomaten-Aufgaben sollten soweit funktionieren. Man sollte
 allerdings beachten, das der hochgeladene Code auf Plagiateri
 überprüft wird. Variablen umbennen bringt wenig, man muss schon die
-Struktur verändern. ISTler bringen die Zusatzpunkte von dort eh wenig.
-Da es nur einen Schein fürs Bestehen gibt und die Punkte erst ab
-Bestehen dazu gezählt werden.
+Struktur verändern.
 
 Momentaner Status:
 
