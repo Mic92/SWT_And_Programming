@@ -1,4 +1,3 @@
-package praktomat.WildWest;
 public class Villain extends Human {
     public Villain(String name, int age, String horseName, FightExperience experience) {
         super(name, age, horseName, experience);

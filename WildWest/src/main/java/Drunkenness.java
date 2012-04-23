@@ -1,4 +1,3 @@
-package praktomat.WildWest;
 import java.util.HashMap;
 public enum Drunkenness {
     SMILEY,

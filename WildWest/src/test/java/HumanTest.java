@@ -1,4 +1,3 @@
-package praktomat.WildWest;
 import java.lang.reflect.Modifier;
 
 import org.junit.Test;

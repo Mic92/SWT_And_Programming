@@ -1,4 +1,3 @@
-package praktomat.WildWest;
 
 public class Saloon {
     private final String name, location;

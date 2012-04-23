@@ -1,4 +1,3 @@
-package praktomat.WildWest;
 
 import java.util.LinkedList;
 import static org.junit.Assert.*;

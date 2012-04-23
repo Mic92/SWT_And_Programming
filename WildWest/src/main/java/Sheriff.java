@@ -1,4 +1,3 @@
-package praktomat.WildWest;
 public class Sheriff extends Human {
     private int victories = 0, losses = 0;
 

@@ -1,4 +1,3 @@
-package praktomat.WildWest;
 public abstract class Human {
     private final String name, horseName;
     private final int age;

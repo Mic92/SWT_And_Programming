@@ -1,4 +1,3 @@
-package praktomat.WildWest;
 import org.junit.Test;
 import junit.framework.TestCase;
 import static org.junit.Assert.*;
