@@ -66,19 +66,11 @@ transB (B n tb ta) i = B n (transB tb (i+1)) (transA ta (i+1))
 
 list :: TA -> [Int]
 list EmptyA = []
-list (A _ ta tb)  = collectA ta ++ collectB tb
+list (A i ta tb) = i : (list ta) ++ (listB tb)
 
 listB :: TB -> [Int]
-listB EmptyB  = []
-listB (B _ tb ta)  = listB tb ++ list ta
-
-collectA :: TA -> [Int]
-collectA EmptyA = []
-collectA (A n ta tb) = n : (collectA ta ++ collectB tb)
-
-collectB :: TB -> [Int]
-collectB EmptyB = []
-collectB (B n tb ta) = n : (listB tb ++ list ta)
+listB EmptyB = []
+listB (B _ tb ta) = (listB tb) ++ (list ta)
 
 
 -- Standardfunktionen selber implementieren. O RLY?
