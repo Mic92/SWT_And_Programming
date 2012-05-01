@@ -12,15 +12,21 @@
     <url>https://github.com/Mic92/SWT_And_Programming</url>
 
     <modules>
+        <!--Basis Exercise-->
         <module>Functions</module>
         <module>Leetspeak</module>
         <module>Lists</module>
         <module>Primes</module>
         <module>Taxis</module>
+        <!--Advanced Exercise-->
         <module>WildWest</module>
+        <!---->
         <module>Inheritance</module>
         <module>CollectionsI</module>
         <module>CollectionsII</module>
+        <!-- Übungen -->
+        <module>U01</module>
+        <module>U02</module>
     </modules>
 
     <dependencies>
