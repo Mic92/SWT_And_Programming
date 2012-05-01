@@ -18,6 +18,7 @@
         <module>Primes</module>
         <module>Taxis</module>
         <module>WildWest</module>
+        <module>Inheritance</module>
         <module>CollectionsI</module>
         <module>CollectionsII</module>
     </modules>

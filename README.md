@@ -20,9 +20,10 @@ Momentaner Status:
 
 - The Wild West
 
-3. Praktomat - Advanced Exercise
+3. Praktomat - Lesson Exercise
 --------------------------------
 
+- Inheritance (Middle Age Kingdom)
 - Collections I (Library with Lists)
 - Collections II (Library with Sets)
 
