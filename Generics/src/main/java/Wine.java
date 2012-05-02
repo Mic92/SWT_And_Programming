@@ -1,4 +1,4 @@
-public class Wine extends Drink {
+public abstract class Wine extends Drink {
     private String region;
 
     public Wine(String region) {
