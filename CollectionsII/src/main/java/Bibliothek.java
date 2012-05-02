@@ -3,14 +3,15 @@ import java.util.List;
 import java.util.Collection;
 
 public class Bibliothek {
-    private Set<Buch> bestand = new TreeSet<Buch>();
+    private Set<Buch> bestand = new HashSet<Buch>();
     public Bibliothek() {
     }
 
     public Buch sucheNachISBN(String isbn) {
-        Buch b = new Buch(isbn,"","");
-        if (bestand.contains(b)) {
-            return b;
+        for (Buch b: bestand) {
+            if (b.getIsbn() == isbn) {
+                return b;
+            }
         }
         return null;
     }
