@@ -24,6 +24,7 @@ Momentaner Status:
 --------------------------------
 
 - Inheritance (Middle Age Kingdom)
+- From Design to Implementation (Telephone Book)
 - Collections I (Library with Lists)
 - Collections II (Library with Sets)
 

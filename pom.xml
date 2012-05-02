@@ -22,6 +22,7 @@
         <module>WildWest</module>
         <!--Lesson Exercise-->
         <module>Inheritance</module>
+        <module>Phonebook</module>
         <module>CollectionsI</module>
         <module>CollectionsII</module>
         <!-- Übungen -->
