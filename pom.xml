@@ -25,6 +25,7 @@
         <module>Phonebook</module>
         <module>CollectionsI</module>
         <module>CollectionsII</module>
+        <module>Generics</module>
         <!-- Übungen -->
         <module>U01</module>
         <module>U02</module>

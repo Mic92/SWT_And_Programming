@@ -27,6 +27,7 @@ Momentaner Status:
 - From Design to Implementation (Telephone Book)
 - Collections I (Library with Lists)
 - Collections II (Library with Sets)
+- Generics (Bottle)
 
 4. SWT - Übungen
 ----------------
