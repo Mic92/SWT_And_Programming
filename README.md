@@ -9,7 +9,6 @@ Momentaner Status:
 1. Praktomat - Basic Exercise
 -----------------------------
 
-- Finding Primes
 - Java and Functions
 - Classes and Objects - Taxi
 - String Processing - Leetspeek
@@ -18,6 +17,8 @@ Momentaner Status:
 2. Praktomat - Advanced Exercise
 --------------------------------
 
+- Finding Primes
+- Complex Task Library I
 - The Wild West
 
 3. Praktomat - Lesson Exercise
@@ -28,6 +29,7 @@ Momentaner Status:
 - Collections I (Library with Lists)
 - Collections II (Library with Sets)
 - Generics (Bottle)
+
 
 4. SWT - Übungen
 ----------------
