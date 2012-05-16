@@ -1,6 +1,6 @@
 import java.util.*;
 public class PredicateIterator<T> implements Iterator {
-    private Predicate pred;
+    private Predicate<T> pred;
     private Iterator<T> iter;
     private T arg;
     private T nextElem;
