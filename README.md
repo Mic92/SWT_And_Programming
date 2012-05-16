@@ -22,13 +22,18 @@ Momentaner Status:
 - The Wild West
 
 3. Praktomat - Lesson Exercise
---------------------------------
+------------------------------
 
 - Inheritance (Middle Age Kingdom)
 - From Design to Implementation (Telephone Book)
 - Collections I (Library with Lists)
 - Collections II (Library with Sets)
 - Generics (Bottle)
+
+4. Praktormat - Exam
+--------------------
+
+- PredicateIterator (Klausur WS 2004/05)
 
 
 4. SWT - Übungen

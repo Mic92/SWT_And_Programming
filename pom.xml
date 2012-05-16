@@ -34,6 +34,7 @@
         <module>JGrapht</module>
         <!--Exam -->
         <!--<module>CoolIdeas</module>-->
+        <module>PredicateIterator</module>
     </modules>
 
     <dependencies>
