@@ -19,6 +19,7 @@
         <module>Primes</module>
         <module>Taxis</module>
         <!--Advanced Exercise-->
+        <module>ComplexLibraryI</module>
         <module>WildWest</module>
         <!--Lesson Exercise-->
         <module>Inheritance</module>
@@ -29,6 +30,10 @@
         <!-- Übungen -->
         <module>U01</module>
         <module>U02</module>
+        <module>U07</module>
+        <module>JGrapht</module>
+        <!--Exam -->
+        <!--<module>CoolIdeas</module>-->
     </modules>
 
     <dependencies>

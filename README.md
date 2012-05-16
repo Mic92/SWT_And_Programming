@@ -34,6 +34,7 @@ Momentaner Status:
 
 - 1. Übung
 - 2. Übung
+- 7. Übung
 
 5. Programmieren - Übungen
 --------------------------
