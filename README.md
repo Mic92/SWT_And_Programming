@@ -35,6 +35,7 @@ Momentaner Status:
 
 - PredicateIterator (Klausur WS 2004/05)
 - COOLIDEAS (Klausur WS 2009/10)
+- Vehicle Queue (Klausur SS 2004)
 
 4. SWT - Übungen
 ----------------
