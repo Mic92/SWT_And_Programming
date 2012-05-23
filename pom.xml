@@ -33,8 +33,10 @@
         <module>U07</module>
         <module>JGrapht</module>
         <!--Exam -->
-        <!--<module>CoolIdeas</module>-->
+        <module>CoolIdeas</module>
         <module>PredicateIterator</module>
+        <module>RenovationProject</module>
+        <module>VehicleQueue</module>
     </modules>
 
     <dependencies>
@@ -54,6 +56,9 @@
                 <configuration>
                     <source>1.6</source>
                     <target>1.6</target>
+                    <compilerArguments>
+                      <Xlint></Xlint>
+                    </compilerArguments>
                 </configuration>
             </plugin>
             <plugin>
