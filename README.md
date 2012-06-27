@@ -30,7 +30,7 @@ Momentaner Status:
 - Collections II (Library with Sets)
 - Generics (Bottle)
 
-4. Praktormat - Exam
+4. Praktromat - Exam
 --------------------
 
 - MyMatrix (Klausur WS 2008/09)
