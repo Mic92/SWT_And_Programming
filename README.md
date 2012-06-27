@@ -33,10 +33,17 @@ Momentaner Status:
 4. Praktormat - Exam
 --------------------
 
-- PredicateIterator (Klausur WS 2004/05)
+- MyMatrix (Klausur WS 2008/09)
+- Project Management (Klausur WS 2007/08)
+- Renovation Project (Klausur WS 2004/05)
+- Vocabulary Trainer (Klausur SS 2007)
+- Predicate Iterator (Klausur WS 2003/04)
+- Desktop Search Engine (Klausur WS 2006/07)
+- Pricing (Klausur SS 2006)
+- Part Management (Klausur WS 2005/06)
 - COOLIDEAS (Klausur WS 2009/10)
 - Vehicle Queue (Klausur SS 2004)
-- Renovation Project (Klausur WS 2004/05)
+- Queue (Klausur WS 2002/03)
 
 4. SWT - Übungen
 ----------------

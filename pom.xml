@@ -33,6 +33,13 @@
         <module>U07</module>
         <module>JGrapht</module>
         <!--Exam -->
+        <module>Queue</module>
+        <module>Pricing</module>
+        <module>PartManagement</module>
+        <module>DesktopSearch</module>
+        <module>VocabularyTrainer</module>
+        <module>ProjectManagement</module>
+        <module>MyMatrix</module>
         <module>CoolIdeas</module>
         <module>PredicateIterator</module>
         <module>RenovationProject</module>
